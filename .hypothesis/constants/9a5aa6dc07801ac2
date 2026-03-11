@@ -1,0 +1,4 @@
+# file: C:\Users\Kshitiz Trigunayat\OneDrive\Desktop\Endee Internship\endee\Event-Ops-AI-Agentic-RAG\src\database\endee_vector_db.py
+# hypothesis_version: 6.151.9
+
+[0.0, '.', './endeedb', 'ENDEE_DB_PATH', 'chunk_id', 'chunks', 'content', 'created_at', 'database_path', 'embedding', 'embedding_dimension', 'end_index', 'exported_at', 'json', 'last_updated', 'metadata', 'r', 'similarity', 'source', 'source_breakdown', 'sources', 'start_index', 'total_chunks', 'total_sources', 'utf-8', 'vectors', 'w']

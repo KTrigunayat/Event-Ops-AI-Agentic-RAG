@@ -1,0 +1,4 @@
+# file: C:\Users\Kshitiz Trigunayat\OneDrive\Desktop\Endee Internship\endee\Event-Ops-AI-Agentic-RAG\src\database\endee_vector_db.py
+# hypothesis_version: 6.151.9
+
+[0.0, 200, 201, 204, 404, 409, 10000, '384', 'Authorization', 'ENDEE_AUTH_TOKEN', 'ENDEE_DIMENSION', 'ENDEE_INDEX_NAME', 'ENDEE_METRIC', 'ENDEE_SERVER_URL', 'chunk_id', 'content', 'cosine', 'created_at', 'dimension', 'embedding', 'embedding_dimension', 'end_index', 'event_ops_vectors', 'exported_at', 'filter', 'id', 'index_name', 'json', 'metadata', 'metric', 'results', 'score', 'similarity', 'source', 'source_breakdown', 'start_index', 'top_k', 'total_chunks', 'total_sources', 'utf-8', 'values', 'vector', 'vector_count', 'vectors', 'w']

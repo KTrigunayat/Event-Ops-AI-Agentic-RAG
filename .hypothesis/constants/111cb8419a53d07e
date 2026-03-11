@@ -1,0 +1,4 @@
+# file: C:\Users\Kshitiz Trigunayat\OneDrive\Desktop\Endee Internship\endee\Event-Ops-AI-Agentic-RAG\src\chunking\llm_chunker.py
+# hypothesis_version: 6.151.9
+
+[200, 1000, '.!?', 'LLM-based chunking', 'OLLAMA_BASE_URL', '[', ']', 'chunk_index', 'chunk_method', 'content', 'llm_based', 'model', 'model_used', 'prompt', 'reasoning', 'response', 'simple_fallback', 'stream', 'tinyllama', 'unknown']
